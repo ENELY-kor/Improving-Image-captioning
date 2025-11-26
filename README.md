@@ -48,9 +48,9 @@ Prompts were carefully constructed to ensure the LLM provided accurate, human-al
 
 **Qualitative Evaluation**
 
-![confused1](images/result5-confused.png)
+![confused1](images/result5s-confused.png)
 
-![confused2](images/result4-confused.png)
+![confused2](images/result4s-confused.png)
 
 ![confused3](images/result2-confused.png)
 
