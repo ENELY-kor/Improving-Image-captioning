@@ -46,6 +46,18 @@ Prompts were carefully constructed to ensure the LLM provided accurate, human-al
 * Stability: For simple images with few objects, the model's output remained consistent with the baseline ViT models, confirming the stability of the gradient-guided approach and avoiding performance degradation.
 * Evaluation Metrics: Quantitative evaluation utilized CLIP Score, Pick Score, and VQA Score , supplemented by GPT-4o for additional qualitative analysis when necessary.
 
+**Qualitative Evaluation**
+
+![confused1](images/result5-confused.png)
+
+![confused2](images/result4-confused.png)
+
+![confused3](images/result2-confused.png)
+
+![deformed1](images/result1-deformed.png)
+
+![mixed1](images/result3-deformed_and_confused.png)
+
 # Key Insights & Reflection
 
 **The Interdisciplinary Nature of AI**
